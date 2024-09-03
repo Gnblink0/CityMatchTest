@@ -1,0 +1,11 @@
+geo_name,characteristic_id,characteristic_name,c1_count_total,c2_count_men,c3_count_women,c10_rate_total,c11_rate_men,c12_rate_women
+Montréal,1,"Population, 2021",4291732.0,,,,,
+Montréal,2,"Population, 2016",4104074.0,,,,,
+Ottawa - Gatineau,1,"Population, 2021",1488307.0,,,,,
+Ottawa - Gatineau,2,"Population, 2016",1371576.0,,,,,
+Toronto,1,"Population, 2021",6202225.0,,,,,
+Toronto,2,"Population, 2016",5928040.0,,,,,
+Calgary,1,"Population, 2021",1481806.0,,,,,
+Calgary,2,"Population, 2016",1392609.0,,,,,
+Vancouver,1,"Population, 2021",2642825.0,,,,,
+Vancouver,2,"Population, 2016",2463431.0,,,,,
