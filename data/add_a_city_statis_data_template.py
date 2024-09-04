@@ -15,6 +15,9 @@ template = {
         "medianAnnualWage": None,
         "minimumHourlyWage": None,
         "costOfLivingIndex": None,  # Numbeo index
+        "rentIndex": None,
+        "priceOfCarsIndex": None,
+        "priceOfGasIndex": None,
         "housePriceToIncomeRatio": None,
         "averageWorkingHours": None,
         "paidVacationDays": None,

@@ -1,0 +1,62 @@
+{
+  "cities": [
+    {"name": "New York City", "country": "United States"},
+    {"name": "Los Angeles", "country": "United States"},
+    {"name": "Chicago", "country": "United States"},
+    {"name": "San Francisco", "country": "United States"},
+    {"name": "Washington D.C.", "country": "United States"},
+    {"name": "Toronto", "country": "Canada"},
+    {"name": "Vancouver", "country": "Canada"},
+    {"name": "Montreal", "country": "Canada"},
+    {"name": "Calgary", "country": "Canada"},
+    {"name": "Mexico City", "country": "Mexico"},
+
+    {"name": "São Paulo", "country": "Brazil"},
+    {"name": "Buenos Aires", "country": "Argentina"},
+    {"name": "Lima", "country": "Peru"},
+    {"name": "Bogotá", "country": "Colombia"},
+
+    {"name": "London", "country": "United Kingdom"},
+    {"name": "Paris", "country": "France"},
+    {"name": "Berlin", "country": "Germany"},
+    {"name": "Rome", "country": "Italy"},
+    {"name": "Madrid", "country": "Spain"},
+    {"name": "Amsterdam", "country": "Netherlands"},
+    {"name": "Moscow", "country": "Russia"},
+    {"name": "Stockholm", "country": "Sweden"},
+    {"name": "Istanbul", "country": "Turkey"},
+    {"name": "Vienna", "country": "Austria"},
+
+    {"name": "Tokyo", "country": "Japan"},
+    {"name": "Seoul", "country": "South Korea"},
+    {"name": "Beijing", "country": "China"},
+    {"name": "Shanghai", "country": "China"},
+    {"name": "Hong Kong", "country": "China"},
+    {"name": "Singapore", "country": "Singapore"},
+    {"name": "Mumbai", "country": "India"},
+    {"name": "Bangkok", "country": "Thailand"},
+    {"name": "Dubai", "country": "United Arab Emirates"},
+    {"name": "Tel Aviv", "country": "Israel"},
+
+    {"name": "Cairo", "country": "Egypt"},
+    {"name": "Lagos", "country": "Nigeria"},
+    {"name": "Nairobi", "country": "Kenya"},
+    {"name": "Cape Town", "country": "South Africa"},
+    {"name": "Casablanca", "country": "Morocco"},
+
+    {"name": "Sydney", "country": "Australia"},
+    {"name": "Melbourne", "country": "Australia"},
+    {"name": "Auckland", "country": "New Zealand"},
+
+    {"name": "Helsinki", "country": "Finland"},
+    {"name": "Zurich", "country": "Switzerland"},
+    {"name": "Copenhagen", "country": "Denmark"},
+    {"name": "Oslo", "country": "Norway"},
+    {"name": "Warsaw", "country": "Poland"},
+    {"name": "Budapest", "country": "Hungary"},
+    {"name": "Athens", "country": "Greece"},
+    {"name": "Dublin", "country": "Ireland"},
+    {"name": "Kuala Lumpur", "country": "Malaysia"},
+    {"name": "Jakarta", "country": "Indonesia"}
+  ]
+}

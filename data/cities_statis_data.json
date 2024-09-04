@@ -18,6 +18,9 @@
                 "medianAnnualWage": null,
                 "minimumHourlyWage": null,
                 "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
                 "housePriceToIncomeRatio": null,
                 "averageWorkingHours": null,
                 "paidVacationDays": null

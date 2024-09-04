@@ -22,6 +22,8 @@ template = {
         "medianWageIndex": None,
         "minimumWageIndex": None,
         "costOfLivingIndex": None,
+        "rentIndex": None,
+        "costOfOwnCarsIndex": None,
         "housingAffordabilityIndex": None,
         "workLifeBalanceIndex": None,
     },
