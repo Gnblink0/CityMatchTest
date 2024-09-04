@@ -1,0 +1,84 @@
+{
+  "name": "",
+  "country": "",
+  "continent": "",
+  "population": 0,
+  "area": 0,
+  "characteristics": {
+    "cityFeatures": []
+  },
+  "socialFactors": {
+    "safetyIndex": 0,
+    "sustainabilityIndex": 0,
+    "governanceEfficiencyIndex": 0,
+    "populationSizeIndex": 0,
+    "populationDensityIndex": 0,
+    "populationAgeIndex": 0
+  },
+  "economicFactors": {
+    "economicDevelopmentLevel": 0,
+    "employmentOpportunityIndex": 0,
+    "minimumWageIndex": 0,
+    "costOfLivingIndex": 0,
+    "housingAffordabilityIndex": 0,
+    "tippingCultureIndex": 0,
+    "workLifeBalanceIndex": 0,
+    "techInnovationIndex": 0
+  },
+  "environmentalFactors": {
+    "climate": {
+      "climateLabels": [],
+      "climateType": "",
+      "livabilityIndex": 0,
+      "temperatureIndex": 0,
+      "highTemperatureDaysIndex": 0,
+      "precipitationIndex": 0,
+      "humidityIndex": 0,
+      "sunshineIndex": 0
+    },
+    "environment": {
+      "coastalIndex": 0,
+      "waterBodyIndex": 0,
+      "airQualityIndex": 0,
+      "naturalDisasterRiskIndex": 0
+    },
+    "greenSpaceIndex": 0
+  },
+  "culturalFactors": {
+    "language": {
+      "mainLanguages": [],
+      "englishProficiencyIndex": 0
+    },
+    "socialAttitudeIndex": 0,
+    "socialInclusivityIndex": 0,
+    "internationalizationIndex": 0,
+    "culturalDiversityIndex": 0,
+    "historicalCulturalRichnessIndex": 0,
+    "lifePaceIndex": 0,
+    "mentalHealthSupportIndex": 0,
+    "socialMobilityIndex": 0
+  },
+  "infrastructureFactors": {
+    "transportation": {
+      "walkabilityIndex": 0,
+      "bikeFriendlinessIndex": 0,
+      "publicTransportConvenienceIndex": 0,
+      "averageCommuteTimeIndex": 0
+    },
+    "urbanDesignAestheticsIndex": 0,
+    "healthcareFacilityQualityIndex": 0,
+    "educationResourceAbundanceIndex": 0,
+    "digitalizationIndex": 0,
+    "seniorFriendlinessIndex": 0,
+    "childFriendlinessIndex": 0,
+    "petFriendlinessIndex": 0
+  },
+  "leisureAndEntertainmentFactors": {
+    "culturalActivityIndex": 0,
+    "entertainmentFacilityIndex": 0,
+    "sportsFacilityIndex": 0,
+    "naturalLandscapeIndex": 0,
+    "culinaryIndex": 0,
+    "nightlifeIndex": 0
+  }
+}
