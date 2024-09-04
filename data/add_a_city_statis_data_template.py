@@ -1,30 +1,38 @@
 import json
 import os
-import random
 
-# 定义一个简化的城市数据模板，只使用英文
 template = {
-    "name": "",
-    "country": "",
-    "continent": "",
-    "population": None,
-    "area": None,
-    "climate": {"type": None},  # 这里将使用枚举值
-    "indices": {
-        "safetyIndex": None,
-        "costOfLivingIndex": None,
-        "sunshineIndex": None,
-        "coastalIndex": None,
-        "waterBodyIndex": None,
-        "airQualityIndex": None,
-        "englishProficiencyIndex": None,
-        "publicTransportConvenienceIndex": None,
-        "culturalActivityIndex": None,
-        "entertainmentFacilityIndex": None,
-        "sportsFacilityIndex": None,
-        "culinaryIndex": None,
+    "basic": {"name": "", "country": "", "continent": ""},
+    "social": {
+        "population": None,
+        "area": None,
+        "populationDensity": None,
+        "medianAge": None,
     },
-    "language": {"mainLanguages": []},
+    "economic": {
+        "gdpPerCapita": None,
+        "unemploymentRate": None,
+        "medianAnnualWage": None,
+        "minimumHourlyWage": None,
+        "costOfLivingIndex": None,  # Numbeo index
+        "housePriceToIncomeRatio": None,
+        "averageWorkingHours": None,
+        "paidVacationDays": None,
+    },
+    "environmental": {
+        "climate": {
+            "type": None,
+            "averageAnnualTemperature": None,
+            "highTemperatureDays": None,
+            "annualPrecipitation": None,
+            "averageRelativeHumidity": None,
+            "annualSunshineHours": None,
+        },
+        "distanceToCoast": None,
+        "averagePM25": None,
+        "greenSpaceCoverage": None,
+        "parksPerCapita": None,
+    },
 }
 
 # 气候类型枚举
@@ -45,10 +53,10 @@ climate_types = [
 
 def generate_next_city(existing_cities):
     next_city_number = len(existing_cities) + 1
-    city = template.copy()
-    city["name"] = f"City{next_city_number}"
-    city["country"] = f"Country{next_city_number}"
-    city["continent"] = "Continent"
+    city = json.loads(json.dumps(template))  # Deep copy of template
+    city["basic"]["name"] = f"City{next_city_number}"
+    city["basic"]["country"] = f"Country{next_city_number}"
+    city["basic"]["continent"] = "Continent"
     return city
 
 
@@ -84,4 +92,4 @@ os.makedirs(os.path.dirname(file_path), exist_ok=True)
 with open(file_path, "w", encoding="utf-8") as file:
     json.dump(data, file, indent=4, ensure_ascii=False)
 
-print(f"Added {new_city['name']} to {file_path}.")
+print(f"Added {new_city['basic']['name']} to {file_path}.")

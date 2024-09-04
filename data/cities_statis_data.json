@@ -1,30 +1,40 @@
 {
     "cities": [
         {
-            "name": "City1",
-            "country": "Country1",
-            "continent": "Continent",
-            "population": null,
-            "area": null,
-            "climate": {
-                "type": null
+            "basic": {
+                "name": "City1",
+                "country": "Country1",
+                "continent": "Continent"
             },
-            "indices": {
-                "safetyIndex": null,
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
                 "costOfLivingIndex": null,
-                "sunshineIndex": null,
-                "coastalIndex": null,
-                "waterBodyIndex": null,
-                "airQualityIndex": null,
-                "englishProficiencyIndex": null,
-                "publicTransportConvenienceIndex": null,
-                "culturalActivityIndex": null,
-                "entertainmentFacilityIndex": null,
-                "sportsFacilityIndex": null,
-                "culinaryIndex": null
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
             },
-            "language": {
-                "mainLanguages": []
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
             }
         }
     ],
