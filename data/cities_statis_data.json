@@ -6,9 +6,6 @@
             "continent": "Continent",
             "population": null,
             "area": null,
-            "characteristics": {
-                "cityFeatures": []
-            },
             "climate": {
                 "type": null
             },

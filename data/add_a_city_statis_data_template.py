@@ -9,7 +9,6 @@ template = {
     "continent": "",
     "population": None,
     "area": None,
-    "characteristics": {"cityFeatures": []},
     "climate": {"type": None},  # 这里将使用枚举值
     "indices": {
         "safetyIndex": None,
