@@ -27,7 +27,7 @@
 ### 技术栈
 - 前端框架:  React
 - 运行时环境: Node.js
-- 数据库：PostgreSQL
+- 数据库：MongoDB
 
 ### 城市数据设计
 
