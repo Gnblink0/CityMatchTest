@@ -2,8 +2,2088 @@
     "cities": [
         {
             "basic": {
-                "name": "City1",
-                "country": "Country1",
+                "name": "New York City",
+                "country": "United States",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Los Angeles",
+                "country": "United States",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Chicago",
+                "country": "United States",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "San Francisco",
+                "country": "United States",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Washington D.C.",
+                "country": "United States",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Toronto",
+                "country": "Canada",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Vancouver",
+                "country": "Canada",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Montreal",
+                "country": "Canada",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Calgary",
+                "country": "Canada",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Mexico City",
+                "country": "Mexico",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "São Paulo",
+                "country": "Brazil",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Buenos Aires",
+                "country": "Argentina",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Lima",
+                "country": "Peru",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Bogotá",
+                "country": "Colombia",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "London",
+                "country": "United Kingdom",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Paris",
+                "country": "France",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Berlin",
+                "country": "Germany",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Rome",
+                "country": "Italy",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Madrid",
+                "country": "Spain",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Amsterdam",
+                "country": "Netherlands",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Moscow",
+                "country": "Russia",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Stockholm",
+                "country": "Sweden",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Istanbul",
+                "country": "Turkey",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Vienna",
+                "country": "Austria",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Tokyo",
+                "country": "Japan",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Seoul",
+                "country": "South Korea",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Beijing",
+                "country": "China",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Shanghai",
+                "country": "China",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Hong Kong",
+                "country": "China",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Singapore",
+                "country": "Singapore",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Mumbai",
+                "country": "India",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Bangkok",
+                "country": "Thailand",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Dubai",
+                "country": "United Arab Emirates",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Tel Aviv",
+                "country": "Israel",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Cairo",
+                "country": "Egypt",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Lagos",
+                "country": "Nigeria",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Nairobi",
+                "country": "Kenya",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Cape Town",
+                "country": "South Africa",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Casablanca",
+                "country": "Morocco",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Sydney",
+                "country": "Australia",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Melbourne",
+                "country": "Australia",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Auckland",
+                "country": "New Zealand",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Helsinki",
+                "country": "Finland",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Zurich",
+                "country": "Switzerland",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Copenhagen",
+                "country": "Denmark",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Oslo",
+                "country": "Norway",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Warsaw",
+                "country": "Poland",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Budapest",
+                "country": "Hungary",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Athens",
+                "country": "Greece",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Dublin",
+                "country": "Ireland",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Kuala Lumpur",
+                "country": "Malaysia",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "Jakarta",
+                "country": "Indonesia",
+                "continent": "Continent"
+            },
+            "social": {
+                "population": null,
+                "area": null,
+                "populationDensity": null,
+                "medianAge": null
+            },
+            "economic": {
+                "gdpPerCapita": null,
+                "unemploymentRate": null,
+                "medianAnnualWage": null,
+                "minimumHourlyWage": null,
+                "costOfLivingIndex": null,
+                "rentIndex": null,
+                "priceOfCarsIndex": null,
+                "priceOfGasIndex": null,
+                "housePriceToIncomeRatio": null,
+                "averageWorkingHours": null,
+                "paidVacationDays": null
+            },
+            "environmental": {
+                "climate": {
+                    "type": null,
+                    "averageAnnualTemperature": null,
+                    "highTemperatureDays": null,
+                    "annualPrecipitation": null,
+                    "averageRelativeHumidity": null,
+                    "annualSunshineHours": null
+                },
+                "distanceToCoast": null,
+                "averagePM25": null,
+                "greenSpaceCoverage": null,
+                "parksPerCapita": null
+            }
+        },
+        {
+            "basic": {
+                "name": "City53",
+                "country": "Country53",
                 "continent": "Continent"
             },
             "social": {
