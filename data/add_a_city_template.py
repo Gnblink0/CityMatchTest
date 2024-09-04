@@ -11,7 +11,6 @@ template = {
     "characteristics": {"cityFeatures": {"en": [], "zh": []}},
     "socialFactors": {
         "safetyIndex": None,
-        "sustainabilityIndex": None,
         "governanceEfficiencyIndex": None,
         "populationSizeIndex": None,
         "populationDensityIndex": None,
@@ -20,12 +19,11 @@ template = {
     "economicFactors": {
         "economicDevelopmentLevel": None,
         "employmentOpportunityIndex": None,
+        "medianWageIndex": None,
         "minimumWageIndex": None,
         "costOfLivingIndex": None,
         "housingAffordabilityIndex": None,
-        "tippingCultureIndex": None,
         "workLifeBalanceIndex": None,
-        "techInnovationIndex": None,
     },
     "environmentalFactors": {
         "climate": {
@@ -57,8 +55,6 @@ template = {
         "culturalDiversityIndex": None,
         "historicalCulturalRichnessIndex": None,
         "lifePaceIndex": None,
-        "mentalHealthSupportIndex": None,
-        "socialMobilityIndex": None,
     },
     "infrastructureFactors": {
         "transportation": {
@@ -67,12 +63,9 @@ template = {
             "publicTransportConvenienceIndex": None,
             "averageCommuteTimeIndex": None,
         },
-        "urbanDesignAestheticsIndex": None,
         "healthcareFacilityQualityIndex": None,
         "educationResourceAbundanceIndex": None,
         "digitalizationIndex": None,
-        "seniorFriendlinessIndex": None,
-        "childFriendlinessIndex": None,
         "petFriendlinessIndex": None,
     },
     "leisureAndEntertainmentFactors": {

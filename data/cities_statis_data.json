@@ -1,0 +1,47 @@
+{
+    "cities": [
+        {
+            "name": "City1",
+            "country": "Country1",
+            "continent": "Continent",
+            "population": null,
+            "area": null,
+            "characteristics": {
+                "cityFeatures": []
+            },
+            "climate": {
+                "type": null
+            },
+            "indices": {
+                "safetyIndex": null,
+                "costOfLivingIndex": null,
+                "sunshineIndex": null,
+                "coastalIndex": null,
+                "waterBodyIndex": null,
+                "airQualityIndex": null,
+                "englishProficiencyIndex": null,
+                "publicTransportConvenienceIndex": null,
+                "culturalActivityIndex": null,
+                "entertainmentFacilityIndex": null,
+                "sportsFacilityIndex": null,
+                "culinaryIndex": null
+            },
+            "language": {
+                "mainLanguages": []
+            }
+        }
+    ],
+    "climateTypes": {
+        "TROPICAL_RAINFOREST": "Tropical Rainforest",
+        "TROPICAL_MONSOON": "Tropical Monsoon",
+        "TROPICAL_SAVANNA": "Tropical Savanna",
+        "OCEANIC": "Oceanic",
+        "TEMPERATE_CONTINENTAL": "Temperate Continental",
+        "MEDITERRANEAN": "Mediterranean",
+        "TEMPERATE_MONSOON": "Temperate Monsoon",
+        "SUBTROPICAL_MONSOON": "Subtropical Monsoon",
+        "ARID_SEMI_ARID": "Arid Semi Arid",
+        "HIGHLAND_MOUNTAIN": "Highland Mountain",
+        "HUMID_SUBTROPICAL": "Humid Subtropical"
+    }
+}

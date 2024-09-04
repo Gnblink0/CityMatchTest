@@ -22,21 +22,19 @@
         },
         "socialFactors": {
             "safetyIndex": 3,
-            "sustainabilityIndex": 4,
             "governanceEfficiencyIndex": 4,
             "populationSizeIndex": 3,
-            "populationDensityIndex": 2,
-            "populationAgeIndex": null
+            "populationDensityIndex": 3,
+            "populationAgeIndex": 1
         },
         "economicFactors": {
-            "economicDevelopmentLevel": null,
-            "employmentOpportunityIndex": null,
-            "minimumWageIndex": null,
-            "costOfLivingIndex": null,
-            "housingAffordabilityIndex": null,
-            "tippingCultureIndex": null,
-            "workLifeBalanceIndex": null,
-            "techInnovationIndex": null
+            "economicDevelopmentLevel": 4,
+            "employmentOpportunityIndex": 3,
+            "medianWageIndex": 3,
+            "minimumWageIndex": 4,
+            "costOfLivingIndex": 4,
+            "housingAffordabilityIndex": 1,
+            "workLifeBalanceIndex": 4
         },
         "environmentalFactors": {
             "climate": {
@@ -45,63 +43,62 @@
                     "zh": []
                 },
                 "climateType": {
-                    "en": "",
-                    "zh": ""
+                    "en": "Oceanic",
+                    "zh": "温带海洋性气候"
                 },
-                "livabilityIndex": null,
-                "temperatureIndex": null,
-                "highTemperatureDaysIndex": null,
-                "precipitationIndex": null,
-                "humidityIndex": null,
-                "sunshineIndex": null
+                "livabilityIndex": 4,
+                "temperatureIndex": 4,
+                "highTemperatureDaysIndex": 5,
+                "precipitationIndex": 5,
+                "humidityIndex": 2,
+                "sunshineIndex": 3
             },
             "environment": {
                 "coastalIndex": 5,
                 "waterBodyIndex": 5,
-                "airQualityIndex": null,
-                "naturalDisasterRiskIndex": null
+                "airQualityIndex": 5,
+                "naturalDisasterRiskIndex": 3
             },
-            "greenSpaceIndex": null
+            "greenSpaceIndex": 4
         },
         "culturalFactors": {
             "language": {
                 "mainLanguages": {
-                    "en": [],
-                    "zh": []
+                    "en": [
+                        "English"
+                    ],
+                    "zh": [
+                        "英文"
+                    ]
                 },
-                "englishProficiencyIndex": null
+                "englishProficiencyIndex": 5
             },
-            "socialAttitudeIndex": null,
-            "socialInclusivityIndex": null,
-            "internationalizationIndex": null,
-            "culturalDiversityIndex": null,
-            "historicalCulturalRichnessIndex": null,
-            "lifePaceIndex": null,
-            "mentalHealthSupportIndex": null,
-            "socialMobilityIndex": null
+            "socialAttitudeIndex": 5,
+            "socialInclusivityIndex": 5,
+            "internationalizationIndex": 4,
+            "culturalDiversityIndex": 4,
+            "historicalCulturalRichnessIndex": 1,
+            "lifePaceIndex": 1
         },
         "infrastructureFactors": {
             "transportation": {
-                "walkabilityIndex": null,
-                "bikeFriendlinessIndex": null,
-                "publicTransportConvenienceIndex": null,
-                "averageCommuteTimeIndex": null
+                "walkabilityIndex": 3,
+                "bikeFriendlinessIndex": 3,
+                "publicTransportConvenienceIndex": 4,
+                "averageCommuteTimeIndex": 3
             },
-            "urbanDesignAestheticsIndex": null,
-            "healthcareFacilityQualityIndex": null,
-            "educationResourceAbundanceIndex": null,
-            "digitalizationIndex": null,
-            "seniorFriendlinessIndex": null,
-            "childFriendlinessIndex": null,
-            "petFriendlinessIndex": null
+            "healthcareFacilityQualityIndex": 3,
+            "educationResourceAbundanceIndex": 4,
+            "digitalizationIndex": 2,
+            "petFriendlinessIndex": 5
         },
         "leisureAndEntertainmentFactors": {
-            "culturalActivityIndex": null,
-            "entertainmentFacilityIndex": null,
-            "sportsFacilityIndex": null,
-            "naturalLandscapeIndex": null,
-            "culinaryIndex": null,
-            "nightlifeIndex": null
+            "culturalActivityIndex": 3,
+            "entertainmentFacilityIndex": 3,
+            "sportsFacilityIndex": 4,
+            "naturalLandscapeIndex": 5,
+            "culinaryIndex": 4,
+            "nightlifeIndex": 3
         }
     },
     {
@@ -117,31 +114,33 @@
             "en": "North America",
             "zh": "北美洲"
         },
-        "population": null,
-        "area": null,
+        "population": 6202225,
+        "area": 7124,
         "characteristics": {
             "cityFeatures": {
-                "en": [],
-                "zh": []
+                "en": [
+                    "Financial Center"
+                ],
+                "zh": [
+                    "金融中心"
+                ]
             }
         },
         "socialFactors": {
-            "safetyIndex": null,
-            "sustainabilityIndex": null,
-            "governanceEfficiencyIndex": null,
-            "populationSizeIndex": null,
-            "populationDensityIndex": null,
-            "populationAgeIndex": null
+            "safetyIndex": 2,
+            "governanceEfficiencyIndex": 4,
+            "populationSizeIndex": 4,
+            "populationDensityIndex": 3,
+            "populationAgeIndex": 1
         },
         "economicFactors": {
             "economicDevelopmentLevel": null,
             "employmentOpportunityIndex": null,
-            "minimumWageIndex": null,
-            "costOfLivingIndex": null,
+            "medianWageIndex": 4,
+            "minimumWageIndex": 4,
+            "costOfLivingIndex": 3,
             "housingAffordabilityIndex": null,
-            "tippingCultureIndex": null,
-            "workLifeBalanceIndex": null,
-            "techInnovationIndex": null
+            "workLifeBalanceIndex": null
         },
         "environmentalFactors": {
             "climate": {
@@ -179,11 +178,9 @@
             "socialAttitudeIndex": null,
             "socialInclusivityIndex": null,
             "internationalizationIndex": null,
-            "culturalDiversityIndex": null,
+            "culturalDiversityIndex": 5,
             "historicalCulturalRichnessIndex": null,
-            "lifePaceIndex": null,
-            "mentalHealthSupportIndex": null,
-            "socialMobilityIndex": null
+            "lifePaceIndex": null
         },
         "infrastructureFactors": {
             "transportation": {
@@ -192,12 +189,9 @@
                 "publicTransportConvenienceIndex": null,
                 "averageCommuteTimeIndex": null
             },
-            "urbanDesignAestheticsIndex": null,
             "healthcareFacilityQualityIndex": null,
             "educationResourceAbundanceIndex": null,
             "digitalizationIndex": null,
-            "seniorFriendlinessIndex": null,
-            "childFriendlinessIndex": null,
             "petFriendlinessIndex": null
         },
         "leisureAndEntertainmentFactors": {
@@ -211,42 +205,46 @@
     },
     {
         "name": {
-            "en": "City3",
-            "zh": "城市3"
+            "en": "Hong Kong",
+            "zh": "香港"
         },
         "country": {
-            "en": "Country3",
-            "zh": "国家3"
+            "en": "China",
+            "zh": "中国"
         },
         "continent": {
-            "en": "Continent",
-            "zh": "大洲"
+            "en": "Asia",
+            "zh": "亚洲"
         },
-        "population": null,
-        "area": null,
+        "population": 7484800,
+        "area": 1104,
         "characteristics": {
             "cityFeatures": {
-                "en": [],
-                "zh": []
+                "en": [
+                    "Financial Center",
+                    "International City"
+                ],
+                "zh": [
+                    "金融中心",
+                    "国际城市"
+                ]
             }
         },
         "socialFactors": {
-            "safetyIndex": null,
-            "sustainabilityIndex": null,
+            "safetyIndex": 5,
             "governanceEfficiencyIndex": null,
             "populationSizeIndex": null,
-            "populationDensityIndex": null,
+            "populationDensityIndex": 4,
             "populationAgeIndex": null
         },
         "economicFactors": {
             "economicDevelopmentLevel": null,
             "employmentOpportunityIndex": null,
+            "medianWageIndex": null,
             "minimumWageIndex": null,
-            "costOfLivingIndex": null,
+            "costOfLivingIndex": 5,
             "housingAffordabilityIndex": null,
-            "tippingCultureIndex": null,
-            "workLifeBalanceIndex": null,
-            "techInnovationIndex": null
+            "workLifeBalanceIndex": null
         },
         "environmentalFactors": {
             "climate": {
@@ -263,7 +261,7 @@
                 "highTemperatureDaysIndex": null,
                 "precipitationIndex": null,
                 "humidityIndex": null,
-                "sunshineIndex": null
+                "sunshineIndex": 2
             },
             "environment": {
                 "coastalIndex": null,
@@ -286,9 +284,7 @@
             "internationalizationIndex": null,
             "culturalDiversityIndex": null,
             "historicalCulturalRichnessIndex": null,
-            "lifePaceIndex": null,
-            "mentalHealthSupportIndex": null,
-            "socialMobilityIndex": null
+            "lifePaceIndex": null
         },
         "infrastructureFactors": {
             "transportation": {
@@ -297,12 +293,513 @@
                 "publicTransportConvenienceIndex": null,
                 "averageCommuteTimeIndex": null
             },
-            "urbanDesignAestheticsIndex": null,
             "healthcareFacilityQualityIndex": null,
             "educationResourceAbundanceIndex": null,
             "digitalizationIndex": null,
-            "seniorFriendlinessIndex": null,
-            "childFriendlinessIndex": null,
+            "petFriendlinessIndex": null
+        },
+        "leisureAndEntertainmentFactors": {
+            "culturalActivityIndex": null,
+            "entertainmentFacilityIndex": null,
+            "sportsFacilityIndex": null,
+            "naturalLandscapeIndex": null,
+            "culinaryIndex": null,
+            "nightlifeIndex": null
+        }
+    },
+    {
+        "name": {
+            "en": "Shanghai",
+            "zh": "上海"
+        },
+        "country": {
+            "en": "China",
+            "zh": "中国"
+        },
+        "continent": {
+            "en": "Asia",
+            "zh": "亚洲"
+        },
+        "population": 24870895,
+        "area": 6340,
+        "characteristics": {
+            "cityFeatures": {
+                "en": [
+                    "Financial Center",
+                    "International City"
+                ],
+                "zh": [
+                    "金融中心",
+                    "国际城市"
+                ]
+            }
+        },
+        "socialFactors": {
+            "safetyIndex": 5,
+            "governanceEfficiencyIndex": null,
+            "populationSizeIndex": null,
+            "populationDensityIndex": null,
+            "populationAgeIndex": null
+        },
+        "economicFactors": {
+            "economicDevelopmentLevel": null,
+            "employmentOpportunityIndex": null,
+            "medianWageIndex": null,
+            "minimumWageIndex": null,
+            "costOfLivingIndex": 1,
+            "housingAffordabilityIndex": null,
+            "workLifeBalanceIndex": null
+        },
+        "environmentalFactors": {
+            "climate": {
+                "climateLabels": {
+                    "en": [],
+                    "zh": []
+                },
+                "climateType": {
+                    "en": "Subtropical Monsoon",
+                    "zh": "亚热带季风气候"
+                },
+                "livabilityIndex": null,
+                "temperatureIndex": null,
+                "highTemperatureDaysIndex": null,
+                "precipitationIndex": null,
+                "humidityIndex": null,
+                "sunshineIndex": 2
+            },
+            "environment": {
+                "coastalIndex": 3,
+                "waterBodyIndex": 3,
+                "airQualityIndex": 2,
+                "naturalDisasterRiskIndex": null
+            },
+            "greenSpaceIndex": 1
+        },
+        "culturalFactors": {
+            "language": {
+                "mainLanguages": {
+                    "en": [
+                        "Chinese"
+                    ],
+                    "zh": [
+                        "中文"
+                    ]
+                },
+                "englishProficiencyIndex": 2
+            },
+            "socialAttitudeIndex": 4,
+            "socialInclusivityIndex": 3,
+            "internationalizationIndex": 5,
+            "culturalDiversityIndex": 3,
+            "historicalCulturalRichnessIndex": 2,
+            "lifePaceIndex": 5
+        },
+        "infrastructureFactors": {
+            "transportation": {
+                "walkabilityIndex": 4,
+                "bikeFriendlinessIndex": 5,
+                "publicTransportConvenienceIndex": 4,
+                "averageCommuteTimeIndex": null
+            },
+            "healthcareFacilityQualityIndex": null,
+            "educationResourceAbundanceIndex": null,
+            "digitalizationIndex": null,
+            "petFriendlinessIndex": null
+        },
+        "leisureAndEntertainmentFactors": {
+            "culturalActivityIndex": null,
+            "entertainmentFacilityIndex": null,
+            "sportsFacilityIndex": null,
+            "naturalLandscapeIndex": null,
+            "culinaryIndex": null,
+            "nightlifeIndex": null
+        }
+    },
+    {
+        "name": {
+            "en": "New York",
+            "zh": "纽约"
+        },
+        "country": {
+            "en": "United States",
+            "zh": "美国"
+        },
+        "continent": {
+            "en": "North America",
+            "zh": "北美洲"
+        },
+        "population": null,
+        "area": null,
+        "characteristics": {
+            "cityFeatures": {
+                "en": [],
+                "zh": []
+            }
+        },
+        "socialFactors": {
+            "safetyIndex": null,
+            "governanceEfficiencyIndex": null,
+            "populationSizeIndex": null,
+            "populationDensityIndex": null,
+            "populationAgeIndex": null
+        },
+        "economicFactors": {
+            "economicDevelopmentLevel": null,
+            "employmentOpportunityIndex": null,
+            "medianWageIndex": null,
+            "minimumWageIndex": null,
+            "costOfLivingIndex": 5,
+            "housingAffordabilityIndex": null,
+            "workLifeBalanceIndex": null
+        },
+        "environmentalFactors": {
+            "climate": {
+                "climateLabels": {
+                    "en": [],
+                    "zh": []
+                },
+                "climateType": {
+                    "en": "",
+                    "zh": ""
+                },
+                "livabilityIndex": null,
+                "temperatureIndex": null,
+                "highTemperatureDaysIndex": null,
+                "precipitationIndex": null,
+                "humidityIndex": null,
+                "sunshineIndex": 5
+            },
+            "environment": {
+                "coastalIndex": null,
+                "waterBodyIndex": null,
+                "airQualityIndex": null,
+                "naturalDisasterRiskIndex": null
+            },
+            "greenSpaceIndex": null
+        },
+        "culturalFactors": {
+            "language": {
+                "mainLanguages": {
+                    "en": [],
+                    "zh": []
+                },
+                "englishProficiencyIndex": null
+            },
+            "socialAttitudeIndex": null,
+            "socialInclusivityIndex": null,
+            "internationalizationIndex": null,
+            "culturalDiversityIndex": null,
+            "historicalCulturalRichnessIndex": 2,
+            "lifePaceIndex": 5
+        },
+        "infrastructureFactors": {
+            "transportation": {
+                "walkabilityIndex": null,
+                "bikeFriendlinessIndex": null,
+                "publicTransportConvenienceIndex": null,
+                "averageCommuteTimeIndex": null
+            },
+            "healthcareFacilityQualityIndex": null,
+            "educationResourceAbundanceIndex": null,
+            "digitalizationIndex": null,
+            "petFriendlinessIndex": null
+        },
+        "leisureAndEntertainmentFactors": {
+            "culturalActivityIndex": 5,
+            "entertainmentFacilityIndex": 5,
+            "sportsFacilityIndex": null,
+            "naturalLandscapeIndex": null,
+            "culinaryIndex": 5,
+            "nightlifeIndex": null
+        }
+    },
+    {
+        "name": {
+            "en": "Tokyo",
+            "zh": "东京"
+        },
+        "country": {
+            "en": "Japan",
+            "zh": "日本"
+        },
+        "continent": {
+            "en": "Asia",
+            "zh": "亚洲"
+        },
+        "population": null,
+        "area": null,
+        "characteristics": {
+            "cityFeatures": {
+                "en": [
+                    "Capital"
+                ],
+                "zh": [
+                    "首都"
+                ]
+            }
+        },
+        "socialFactors": {
+            "safetyIndex": 5,
+            "governanceEfficiencyIndex": null,
+            "populationSizeIndex": null,
+            "populationDensityIndex": null,
+            "populationAgeIndex": null
+        },
+        "economicFactors": {
+            "economicDevelopmentLevel": null,
+            "employmentOpportunityIndex": null,
+            "medianWageIndex": null,
+            "minimumWageIndex": null,
+            "costOfLivingIndex": null,
+            "housingAffordabilityIndex": null,
+            "workLifeBalanceIndex": 2
+        },
+        "environmentalFactors": {
+            "climate": {
+                "climateLabels": {
+                    "en": [],
+                    "zh": []
+                },
+                "climateType": {
+                    "en": "",
+                    "zh": ""
+                },
+                "livabilityIndex": null,
+                "temperatureIndex": null,
+                "highTemperatureDaysIndex": null,
+                "precipitationIndex": null,
+                "humidityIndex": null,
+                "sunshineIndex": 2
+            },
+            "environment": {
+                "coastalIndex": 4,
+                "waterBodyIndex": 3,
+                "airQualityIndex": null,
+                "naturalDisasterRiskIndex": null
+            },
+            "greenSpaceIndex": null
+        },
+        "culturalFactors": {
+            "language": {
+                "mainLanguages": {
+                    "en": [],
+                    "zh": []
+                },
+                "englishProficiencyIndex": null
+            },
+            "socialAttitudeIndex": null,
+            "socialInclusivityIndex": null,
+            "internationalizationIndex": null,
+            "culturalDiversityIndex": null,
+            "historicalCulturalRichnessIndex": null,
+            "lifePaceIndex": null
+        },
+        "infrastructureFactors": {
+            "transportation": {
+                "walkabilityIndex": null,
+                "bikeFriendlinessIndex": null,
+                "publicTransportConvenienceIndex": 5,
+                "averageCommuteTimeIndex": null
+            },
+            "healthcareFacilityQualityIndex": null,
+            "educationResourceAbundanceIndex": null,
+            "digitalizationIndex": null,
+            "petFriendlinessIndex": null
+        },
+        "leisureAndEntertainmentFactors": {
+            "culturalActivityIndex": 5,
+            "entertainmentFacilityIndex": 5,
+            "sportsFacilityIndex": 5,
+            "naturalLandscapeIndex": null,
+            "culinaryIndex": 5,
+            "nightlifeIndex": null
+        }
+    },
+    {
+        "name": {
+            "en": "Paris",
+            "zh": "巴黎"
+        },
+        "country": {
+            "en": "France",
+            "zh": "法国"
+        },
+        "continent": {
+            "en": "Europe",
+            "zh": "欧洲"
+        },
+        "population": null,
+        "area": null,
+        "characteristics": {
+            "cityFeatures": {
+                "en": ["Capital"],
+                "zh": ["首都"]
+            }
+        },
+        "socialFactors": {
+            "safetyIndex": null,
+            "governanceEfficiencyIndex": null,
+            "populationSizeIndex": null,
+            "populationDensityIndex": null,
+            "populationAgeIndex": null
+        },
+        "economicFactors": {
+            "economicDevelopmentLevel": null,
+            "employmentOpportunityIndex": null,
+            "medianWageIndex": null,
+            "minimumWageIndex": null,
+            "costOfLivingIndex": 4,
+            "housingAffordabilityIndex": null,
+            "workLifeBalanceIndex": null
+        },
+        "environmentalFactors": {
+            "climate": {
+                "climateLabels": {
+                    "en": [],
+                    "zh": []
+                },
+                "climateType": {
+                    "en": "",
+                    "zh": ""
+                },
+                "livabilityIndex": null,
+                "temperatureIndex": null,
+                "highTemperatureDaysIndex": null,
+                "precipitationIndex": null,
+                "humidityIndex": null,
+                "sunshineIndex": 2
+            },
+            "environment": {
+                "coastalIndex": 0,
+                "waterBodyIndex": 3,
+                "airQualityIndex": null,
+                "naturalDisasterRiskIndex": null
+            },
+            "greenSpaceIndex": null
+        },
+        "culturalFactors": {
+            "language": {
+                "mainLanguages": {
+                    "en": ["French"],
+                    "zh": ["法语"]
+                },
+                "englishProficiencyIndex": null
+            },
+            "socialAttitudeIndex": null,
+            "socialInclusivityIndex": null,
+            "internationalizationIndex": null,
+            "culturalDiversityIndex": null,
+            "historicalCulturalRichnessIndex": null,
+            "lifePaceIndex": null
+        },
+        "infrastructureFactors": {
+            "transportation": {
+                "walkabilityIndex": null,
+                "bikeFriendlinessIndex": null,
+                "publicTransportConvenienceIndex": null,
+                "averageCommuteTimeIndex": null
+            },
+            "healthcareFacilityQualityIndex": null,
+            "educationResourceAbundanceIndex": null,
+            "digitalizationIndex": null,
+            "petFriendlinessIndex": null
+        },
+        "leisureAndEntertainmentFactors": {
+            "culturalActivityIndex": null,
+            "entertainmentFacilityIndex": null,
+            "sportsFacilityIndex": null,
+            "naturalLandscapeIndex": null,
+            "culinaryIndex": null,
+            "nightlifeIndex": null
+        }
+    },
+    {
+        "name": {
+            "en": "Calgary",
+            "zh": "卡尔加里"
+        },
+        "country": {
+            "en": "Canada",
+            "zh": "加拿大"
+        },
+        "continent": {
+            "en": "North America",
+            "zh": "北美洲"
+        },
+        "population": null,
+        "area": null,
+        "characteristics": {
+            "cityFeatures": {
+                "en": ["Oil Capital"],
+                "zh": ["石油城市"]
+            }
+        },
+        "socialFactors": {
+            "safetyIndex": null,
+            "governanceEfficiencyIndex": null,
+            "populationSizeIndex": null,
+            "populationDensityIndex": null,
+            "populationAgeIndex": null
+        },
+        "economicFactors": {
+            "economicDevelopmentLevel": null,
+            "employmentOpportunityIndex": null,
+            "medianWageIndex": null,
+            "minimumWageIndex": null,
+            "costOfLivingIndex": 3,
+            "housingAffordabilityIndex": null,
+            "workLifeBalanceIndex": null
+        },
+        "environmentalFactors": {
+            "climate": {
+                "climateLabels": {
+                    "en": [],
+                    "zh": []
+                },
+                "climateType": {
+                    "en": "",
+                    "zh": ""
+                },
+                "livabilityIndex": null,
+                "temperatureIndex": null,
+                "highTemperatureDaysIndex": null,
+                "precipitationIndex": null,
+                "humidityIndex": null,
+                "sunshineIndex": 4
+            },
+            "environment": {
+                "coastalIndex": 0,
+                "waterBodyIndex": null,
+                "airQualityIndex": null,
+                "naturalDisasterRiskIndex": null
+            },
+            "greenSpaceIndex": null
+        },
+        "culturalFactors": {
+            "language": {
+                "mainLanguages": {
+                    "en": ["English"],
+                    "zh": ["英语"]
+                },
+                "englishProficiencyIndex": null
+            },
+            "socialAttitudeIndex": null,
+            "socialInclusivityIndex": null,
+            "internationalizationIndex": null,
+            "culturalDiversityIndex": null,
+            "historicalCulturalRichnessIndex": null,
+            "lifePaceIndex": null
+        },
+        "infrastructureFactors": {
+            "transportation": {
+                "walkabilityIndex": null,
+                "bikeFriendlinessIndex": null,
+                "publicTransportConvenienceIndex": null,
+                "averageCommuteTimeIndex": null
+            },
+            "healthcareFacilityQualityIndex": null,
+            "educationResourceAbundanceIndex": null,
+            "digitalizationIndex": null,
             "petFriendlinessIndex": null
         },
         "leisureAndEntertainmentFactors": {
